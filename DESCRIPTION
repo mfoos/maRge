@@ -1,8 +1,8 @@
 Package: maRge
-Title: What the Package Does (one line, title case)
+Title: Print A Marge Simpson When You Screw Up
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph)
+Authors@R: person("Marianna", "Foos", , "marianna.foos@gmail.com, role = c("aut", "cre"))
+Description: Prints a Marge Simpson emoticon when you misspell merge 
 Depends: R (>= 3.1.1)
 License: What license is it under?
 LazyData: true
