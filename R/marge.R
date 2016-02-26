@@ -16,7 +16,10 @@ marge.og <- function(...) {
 #' @export
 
 marge <- function(speak = "Shut up, Becky!", ...) {
-  margeimg <- "
+    if (!is.character(speak)) {
+        speak <- "Shut up, Becky!"
+    }
+    margeimg <- "
    OOOO
  OOOOOOOOO
 OOOOOOOOOOOO
