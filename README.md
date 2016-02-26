@@ -11,32 +11,6 @@ Ideally one day she will say things.
 [P]UPDATE 2/26/2016:
 
 One-line Marge is deprecated! All glories to ASCII Marge!
-`   OOOO
- OOOOOOOOO
-OOOOOOOOOOOO
-OOOOOOOOOOOOO
-OOOOOOOOOOOOOO
-OOOOOOOOOOOOOO
- OOOOOOOOOOOOOO
- OOOOOOOOOOOOOO
- OOOOOOOOOOOOOO
-  OOOOOOOOOOOOOO
-  OOOOOOOOOOOOOO
-  OOOOOOOOOOOOOO
-  OOOOOOOOOOOOOO
-   OOOOOOOOOOOOOO
-   OOOOOOOOOOOOOO
-   OOOOO \\_| \\_|O
-   OOOO \\/  \\/  \\
-   OOOO (o   )o  )
-   O/c   \\__/ --.
-   O\\_   ,     -'
-    O|  '\\_______)     Shut up, Becky!
-     |      _)
-     |     |
-     OOOOOOO
-    /       \\
-    [http://www.asciiworld.com/-Simpsons-.html]`
 
 If you give her a string, she'll say that, but otherwise, she sticks to my
 favorite Marge line of all time.
