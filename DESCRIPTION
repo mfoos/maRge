@@ -1,8 +1,8 @@
 Package: maRge
 Title: Print A Marge Simpson When You Screw Up
-Version: 0.0.0.9000
+Version: 1.0.0.0
 Authors@R: person("Marianna", "Foos", , "marianna.foos@gmail.com", c("aut","cre"))
-Description: Prints a Marge Simpson emoticon when you misspell merge 
+Description: Prints a Marge Simpson ASCII portrait when you misspell merge 
 Depends: R (>= 3.1.1)
 License: What license is it under?
 LazyData: true
